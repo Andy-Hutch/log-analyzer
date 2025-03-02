@@ -1,0 +1,51 @@
+
+--- ERROR ---
+
+level: error
+message: a critical error occurred in the system process.
+report id: 12345
+--------------------------------------------------
+
+level: error
+message: invalid credentials used during login attempt.
+report id: 11223
+--------------------------------------------------
+
+level: critical
+message: system crash due to unexpected error.
+report id: 78901
+--------------------------------------------------
+
+level: error
+message: failed login attempt by an unauthorized user.
+report id: 22334
+--------------------------------------------------
+
+--- WARNING ---
+
+level: warning
+message: the system is running low on memory.
+report id: 67890
+--------------------------------------------------
+
+level: warning
+message: unauthorized access attempt detected.
+report id: 44556
+--------------------------------------------------
+
+--- FAILED LOGIN ---
+
+level: error
+message: invalid credentials used during login attempt.
+report id: 11223
+--------------------------------------------------
+
+level: warning
+message: unauthorized access attempt detected.
+report id: 44556
+--------------------------------------------------
+
+level: error
+message: failed login attempt by an unauthorized user.
+report id: 22334
+--------------------------------------------------

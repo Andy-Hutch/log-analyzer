@@ -1,0 +1,35 @@
+Event[1]
+Level: Error
+Message: A critical error occurred in the system process.
+Report Id: 12345
+Timestamp: 2023-12-18 10:30:00
+
+Event[2]
+Level: Warning
+Message: The system is running low on memory.
+Report Id: 67890
+Timestamp: 2023-12-18 10:31:00
+
+Event[3]
+Level: Error
+Message: Invalid credentials used during login attempt.
+Report Id: 11223
+Timestamp: 2023-12-18 10:32:00
+
+Event[4]
+Level: Warning
+Message: Unauthorized access attempt detected.
+Report Id: 44556
+Timestamp: 2023-12-18 10:33:00
+
+Event[5]
+Level: Critical
+Message: System crash due to unexpected error.
+Report Id: 78901
+Timestamp: 2023-12-18 10:34:00
+
+Event[6]
+Level: Error
+Message: Failed login attempt by an unauthorized user.
+Report Id: 22334
+Timestamp: 2023-12-18 10:35:00
